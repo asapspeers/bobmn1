@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932846100708",
+    "firebase_url": "https://black-owned-minnesota.firebaseio.com",
+    "project_id": "black-owned-minnesota",
+    "storage_bucket": "black-owned-minnesota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932846100708:android:49e86f2d2ff8c58eb6ccf1",
+        "android_client_info": {
+          "package_name": "com.example.bomv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932846100708-pea6igof00a8nb2613jlg5e85bfenpii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCitZWNpMqrJ3P7LKsofUtj6Iozy4C8-6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932846100708-pea6igof00a8nb2613jlg5e85bfenpii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
